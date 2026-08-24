@@ -88,21 +88,69 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
 
 <div align="center">
 
-| App | Platform | Description |
-|:----|:--------:|:------------|
-| 🛒 **Al-Ettihad Wholesale Grocery** | 📱 Flutter | Full wholesale grocery ecosystem — Customer ordering, Merchant management & Delivery dispatch |
-| 🏪 **Alam El-Gomla** | 📱 Flutter | Wholesale B2B/B2C marketplace with real-time inventory synchronization |
-| 🏬 **Al Salmya Cooperative** | 📱 Flutter | Kuwait cooperative society app with secure checkout & order lifecycle tracking |
-| 🤝 **Union of Cooperatives** | 📱 Flutter | Multi-cooperative platform with unified management dashboard |
-| 🏢 **Society Cooperative Mubarak Abdullah** | 📱 Flutter | Enterprise cooperative solution for the Gulf market |
-| 🎧 **Royal Mind** | 📱 Flutter | Audiobooks & Podcasts streaming platform with offline playback |
-| 🎥 **ViBE ZO** | 📱 Flutter | Video & Live streaming social platform with real-time interactions |
+### 🏬 Cooperative Societies (Kuwait Market)
+
+| App | Platform | Store | Description |
+|:----|:--------:|:-----:|:------------|
+| 🏬 **جمعية السالمية التعاونية** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9/id6742176638) | Al Salmya Cooperative — Secure checkout & order lifecycle tracking |
+| 🏬 **جمعية الفنطاس التعاونية** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D8%B7%D8%A7%D8%B3-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9/id6736586908) | Al Fintas Cooperative — Gulf cooperative society platform |
+| 🏬 **جمعية الروضة وحولي** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D8%A9-%D9%88%D8%AD%D9%88%D9%84%D9%8A/id6474566099) | Al Rawda & Hawally Cooperative — Community marketplace |
+| 🏬 **جمعية عبدالله المبارك** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%83/id6498709812) | Abdullah Al-Mubarak Cooperative — Enterprise solution |
+| 🤝 **اتحاد الجمعيات التعاونية** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9/id6736432325) | Union of Cooperatives — Multi-cooperative unified management |
+
+### 🛒 E-Commerce & Wholesale
+
+| App | Platform | Store | Description |
+|:----|:--------:|:-----:|:------------|
+| 🛒 **Al-Ettihad Wholesale Grocery** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/al-ettihad-wholesale-grocery/id6749525584) | Full wholesale grocery ecosystem — Customer, Merchant & Delivery |
+| 🏪 **Alam El-Gomla** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/alam-el-gomla/id6753627646) | Wholesale B2B/B2C marketplace with real-time inventory sync |
+| 🏪 **أسواق الهضبة** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%87%D8%B6%D8%A8%D8%A9/id6757453556) | Al-Hadaba Markets — Local marketplace & delivery |
+| 🥬 **Al-Rabee Market** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/al-rabee-market/id6757955639) | Fresh grocery marketplace with ordering & delivery |
+| 🔄 **360 Market** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/360-market/id6759046622) | Full-circle marketplace & e-commerce platform |
+| 🇸🇾 **Syria For Sale** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/syria-for-sale/id6745018026) | Marketplace platform for the Syrian market |
+
+### 🎬 Media & Entertainment
+
+| App | Platform | Store | Description |
+|:----|:--------:|:-----:|:------------|
+| 🎧 **Royal Mind** | 📱 Kotlin | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/royal-mind/id6502537182) | Audiobooks & Podcasts streaming with offline playback |
+| 🎥 **ViBE ZO** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/vibe-zo/id6756111783) | Video & Live streaming social platform |
+| 💄 **Renget Hager** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/renget-hager/id6758776591) | Beauty & lifestyle content platform |
 
 </div>
 
 <br/>
 
-## 📦 Open Source Contributions
+## 📦 Published Packages
+
+<div align="center">
+
+<a href="https://pub.dev/packages/native_picture_in_picture">
+  <img src="https://img.shields.io/pub/v/native_picture_in_picture.svg?style=for-the-badge&logo=dart&logoColor=white&label=pub.dev&color=02569B" alt="pub package" />
+</a>
+<a href="https://pub.dev/packages/native_picture_in_picture">
+  <img src="https://img.shields.io/pub/likes/native_picture_in_picture?style=for-the-badge&logo=dart&logoColor=white&label=likes&color=00D2FF" alt="likes" />
+</a>
+<a href="https://pub.dev/packages/native_picture_in_picture">
+  <img src="https://img.shields.io/pub/points/native_picture_in_picture?style=for-the-badge&logo=dart&logoColor=white&label=pub+points&color=6DB33F" alt="pub points" />
+</a>
+
+</div>
+
+### [`native_picture_in_picture`](https://pub.dev/packages/native_picture_in_picture)
+
+> A Flutter plugin for native **Picture-in-Picture (PiP)** on **Android** (API 26+) and **iOS** (14+). Uses **ExoPlayer** and **AVKit** for smooth, reliable PiP with full lifecycle events and auto-PiP support.
+
+- 🤖 Android — **ExoPlayer** with hardware-accelerated full-screen SurfaceView overlay
+- 🍎 iOS — **AVKit** (`AVPictureInPictureController`)
+- 🔄 Full **sync API**: seek, play, pause the native player to match your Flutter player
+- 📡 **Lifecycle events** stream: `willStart`, `didStart`, `willStop`, `didStop`, `restoreUI`
+- 🏠 **Auto-PiP** on iOS when the user swipes home
+- 🎵 **No double audio** — native player is carefully managed to never clash with Flutter
+
+<br/>
+
+## 🔓 Open Source Contributions
 
 <div align="center">
 
