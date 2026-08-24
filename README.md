@@ -191,7 +191,7 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MomenBakr&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=MomenBakr&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -201,7 +201,7 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MomenBakr&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MomenBakr&theme=github-dark&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true&custom_title=Mo'men%20Bakr's%20Contribution%20Graph" width="100%" />
 
 </div>
 
