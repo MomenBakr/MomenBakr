@@ -15,6 +15,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MomenBakr)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momenbakr.dev@gmail.com)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MomenBakr&color=00D2FF&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/MomenBakr?style=flat-square&color=00D2FF&labelColor=1A1B27&logo=github)
+![Stars](https://img.shields.io/github/stars/MomenBakr?style=flat-square&color=00D2FF&labelColor=1A1B27&logo=github)
+
 </div>
 
 ---
@@ -108,14 +114,14 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
 | 🥬 **Al-Rabee Market** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/al-rabee-market/id6757955639) | Fresh grocery marketplace with ordering & delivery |
 | 🔄 **360 Market** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/360-market/id6759046622) | Full-circle marketplace & e-commerce platform |
 | 🇸🇾 **Syria For Sale** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/syria-for-sale/id6745018026) | Marketplace platform for the Syrian market |
+| 💎 **Renget Hager** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/renget-hager/id6758776591) | E-commerce platform for Renga in Egypt |
 
 ### 🎬 Media & Entertainment
 
 | App | Platform | Store | Description |
 |:----|:--------:|:-----:|:------------|
 | 🎧 **Royal Mind** | 📱 Kotlin | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/royal-mind/id6502537182) | Audiobooks & Podcasts streaming with offline playback |
-| 🎥 **ViBE ZO** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/vibe-zo/id6756111783) | Video & Live streaming social platform |
-| 💄 **Renget Hager** | 📱 Flutter | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/renget-hager/id6758776591) | Beauty & lifestyle content platform |
+| 🎥 **ViBE ZO** | 📱 Kotlin | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/vibe-zo/id6756111783) | Video & Live streaming social platform |
 
 </div>
 
@@ -155,10 +161,10 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
 <div align="center">
 
 <a href="https://github.com/MomenBakr/flutter_gemma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MomenBakr&repo=flutter_gemma&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MomenBakr&repo=flutter_gemma&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/MomenBakr/native_picture_in_picture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MomenBakr&repo=native_picture_in_picture&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MomenBakr&repo=native_picture_in_picture&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -169,12 +175,12 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MomenBakr&show_icons=true&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=C9D1D9&hide_border=false&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomenBakr&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&hide_border=false&langs_count=8" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MomenBakr&show_icons=true&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=C9D1D9&hide_border=false&count_private=true" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MomenBakr&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&hide_border=false&langs_count=8" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MomenBakr&theme=github-dark-blue&border=30363D&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=FF6B35&currStreakLabel=00D2FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" width="600" />
+<img src="https://streak-stats.demolab.com/?user=MomenBakr&theme=github-dark-blue&border=30363D&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=FF6B35&currStreakLabel=00D2FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" width="600" />
 
 </div>
 
@@ -184,7 +190,7 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MomenBakr&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=MomenBakr&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -210,9 +216,7 @@ fun_fact: I build 3-sided marketplace ecosystems (Customer × Merchant × Delive
   <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MomenBakr&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
 
 <br/>
 
